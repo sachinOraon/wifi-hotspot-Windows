@@ -1,6 +1,6 @@
 @echo off
 title HotSpot Creator By Sachin Oraon
-rem mode con cols=52 lines=55
+mode con cols=52 lines=55
 color 0a
 echo.
 :Home
